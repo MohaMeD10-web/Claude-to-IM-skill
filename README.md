@@ -64,7 +64,13 @@ ln -s ~/code/Claude-to-IM-skill ~/.claude/skills/claude-to-im
 
 ### Codex
 
-If you use [Codex](https://github.com/openai/codex), install with the provided script:
+If you use [Codex](https://github.com/openai/codex), clone directly into the Codex skills directory:
+
+```bash
+git clone https://github.com/op7418/Claude-to-IM-skill.git ~/.codex/skills/claude-to-im
+```
+
+Or use the provided install script for automatic dependency installation and build:
 
 ```bash
 # Clone and install (copy mode)
@@ -74,8 +80,6 @@ bash ~/code/Claude-to-IM-skill/scripts/install-codex.sh
 # Or use symlink mode for development
 bash ~/code/Claude-to-IM-skill/scripts/install-codex.sh --link
 ```
-
-This installs the skill to `~/.codex/skills/claude-to-im`.
 
 ### Verify installation
 

@@ -64,7 +64,13 @@ ln -s ~/code/Claude-to-IM-skill ~/.claude/skills/claude-to-im
 
 ### Codex
 
-如果你使用 [Codex](https://github.com/openai/codex)，可以用提供的脚本安装：
+如果你使用 [Codex](https://github.com/openai/codex)，直接克隆到 Codex skills 目录：
+
+```bash
+git clone https://github.com/op7418/Claude-to-IM-skill.git ~/.codex/skills/claude-to-im
+```
+
+或使用提供的安装脚本，自动安装依赖并构建：
 
 ```bash
 # 克隆并安装（复制模式）
@@ -74,8 +80,6 @@ bash ~/code/Claude-to-IM-skill/scripts/install-codex.sh
 # 或使用符号链接模式（方便开发）
 bash ~/code/Claude-to-IM-skill/scripts/install-codex.sh --link
 ```
-
-这会将 Skill 安装到 `~/.codex/skills/claude-to-im`。
 
 ### 验证安装
 
